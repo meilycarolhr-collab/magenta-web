@@ -813,7 +813,7 @@ CATALOGO MODAL
 </div>
 </div>
 <div class="pt-8 border-t border-glass-border text-center text-[10px] text-on-surface-variant/40 uppercase tracking-[0.3em]">
-            © 2024 MAGENTA DIGITAL. TODOS LOS DERECHOS RESERVADOS.
+            © 2019 MAGENTA SUBLIMADO DIGITAL. TODOS LOS DERECHOS RESERVADOS.
         </div>
 </div>
 </footer>
